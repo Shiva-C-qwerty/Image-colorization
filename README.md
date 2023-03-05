@@ -1,5 +1,6 @@
-To download the used models use the following links
-    1. colorization_deploy_v2.prototxt:               https://github.com/richzhang/colorization/tree/caffe/colorization/models
+To download the used models use the following links:
+
+    1. colorization_deploy_v2.prototxt:    https://github.com/richzhang/colorization/tree/caffe/colorization/models
     
     2. pts_in_hull.npy:					   https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy
     
